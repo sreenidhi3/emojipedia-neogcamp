@@ -1,3 +1,5 @@
 # emojipedia-neogcamp
 
-A ReactJS App made with codesandbox. It identifies the meanings of Emojis.
+A React App that helps to understand the meanings of various emojis.
+
+It is made with codesandbox. 
